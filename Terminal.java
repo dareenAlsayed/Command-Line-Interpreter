@@ -1,11 +1,3 @@
-/*  Operating Systems Assignment 1 -  Command Line Interpreter (CLI)
-    Haneen Hisham - 20236032
-    Shaza Moatasem - 20236050
-    Dareen Hassan - 20236126
-    Habiba Khaled - 20235008
-    Mariam Mostafa - 20236092
-*/
-
 import java.util.Scanner;        // to read text input from the user (commands typed in terminal)
 import java.io.File;             // represents files and directories (used to check existence, type,..)
 import java.nio.file.Path;       // represents file and directory paths in a system-independent way (modern version of file paths)
